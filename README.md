@@ -2,7 +2,7 @@
 
 Aqui temos o que foi trabalhado durante a Missão 42 na 42 São Paulo. O objetivo foi uma imersão prática na sintaxe e nas estruturas fundamentais do Python, focando na lógica de programação e manipulação de dados utilizando a metodologia de aprendizagem Peer-To-Peer.
 
-## 🚀 Conceitos Abordados
+## Conceitos Abordados
 
 Os exercícios cobrem desde a sintaxe básica até algoritmos de ordenação manual, incluindo:
 
@@ -19,7 +19,7 @@ Os exercícios cobrem desde a sintaxe básica até algoritmos de ordenação man
     * Lógica de Bubble Sort para ordenação manual de listas e dicionários (sem uso de `lambda` ou `sort` nativo).
     * Filtros condicionais.
 
-## 🛠️ Tecnologias
+## Tecnologias
 * Python 3
 * Bibliotecas padrão: `sys`, `re`
 
